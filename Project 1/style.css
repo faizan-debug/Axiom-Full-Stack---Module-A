@@ -84,6 +84,7 @@
         visibility: visible;
     }
     .form button{
+        cursor: pointer;
         background-color: navy;
         border: 2px solid navy;
         color: white;
@@ -91,4 +92,6 @@
         padding: 10px;
         width: 100%;
         font-size: 16px;
+        margin-top: 20px;
+        font-family: 'Open Sans', sans-serif;
     }

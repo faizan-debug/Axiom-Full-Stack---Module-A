@@ -25,7 +25,7 @@ function showError(input,message){
     small.innerText=message;
   }
 
-
+//Event Listener
 form.addEventListener("submit",function(e){
      e.preventDefault();
     // alert('username is required');
